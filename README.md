@@ -9,17 +9,30 @@ Features:-
 
 Setup:-
 1. Clone and install-
+   
    git clone <repo_url>
+   
    cd <repo_name>
+   
    python -m venv venv
+   
    source venv/bin/activate   # Linux
+   
    venv\Scripts\activate      # Windows
+   
    pip install -r requirements.txt
+   
+
+
+   
    
 2. Run the app-
    streamlit run app.py
+
+
    
-3. Docker deployment-
+   
+4. Docker deployment-
    docker build -t meeting-assistant .
    docker run -p 8501:8501 meeting-assistant
 
