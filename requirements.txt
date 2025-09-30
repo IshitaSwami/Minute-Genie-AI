@@ -1,0 +1,7 @@
+streamlit
+faster-whisper
+transformers
+torch
+sentence-transformers
+faiss-cpu
+python-dotenv

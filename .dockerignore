@@ -1,0 +1,4 @@
+*.pkl
+temp_audio/
+__pycache__/
+*.log
