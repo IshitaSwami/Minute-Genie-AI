@@ -1,0 +1,6 @@
+# Ignore FAISS index & stored texts
+faiss_index.pkl
+stored_texts.pkl
+
+# Ignore temp audio
+*.wav
