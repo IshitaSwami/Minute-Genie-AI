@@ -1,0 +1,12 @@
+Result 1:
+I finished the API integration yesterday. Great.  Let's discuss next tasks.  I'm still working on the front end UI.
+Similarity Score: 0.521
+
+Result 2:
+"Hey team, let's start the daily stand-up.  Sure, Rachel. I finished the API integration yesterday. Great.  Let's discuss next tasks.  I'm still working on the front end UI.  Should be done today.
+Similarity Score: 0.755
+
+Result 3:
+The team is back at work after a weekend off. The database migration went smoothly. I had an issue with authentication, but I fixed it this morning. Let's plan the next sprint backlog. The team is working on a new app for the iPhone and iPad.
+Similarity Score: 1.596
+

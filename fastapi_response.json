@@ -1,0 +1,40 @@
+{
+  "filename": "scrum_call.wav",
+  "transcript": "Speaker One, Good morning team. Let's start with the API integration update. Speaker 2, the endpoints for the user module are completed, but we need to finalize the payment module by Thursday. Speaker three, I'll handle the payment module testing and report any issues.",
+  "summary": {
+    "transcript": [
+      {
+        "speaker": "Alice",
+        "text": "Good morning team. Let's start with the API integration update."
+      },
+      {
+        "speaker": "Bob",
+        "text": "The endpoints for the user module are completed, but we need to finalize the payment module by Thursday."
+      },
+      {
+        "speaker": "Charlie",
+        "text": "I'll handle the payment module testing and report any issues."
+      }
+    ],
+    "summary": {
+      "executive_summary": [
+        "The user module endpoints are completed.",
+        "The payment module needs to be finalized by Thursday.",
+        "Charlie will handle the testing of the payment module and report issues."
+      ],
+      "detailed_summary": "During the meeting, Alice initiated the discussion on API integration updates. Bob reported that the endpoints for the user module have been completed, but emphasized the need to finalize the payment module by the upcoming Thursday. Charlie took responsibility for testing the payment module and committed to reporting any issues that arise.",
+      "action_items": [
+        {
+          "task": "Finalize the payment module",
+          "responsible_person": "Bob",
+          "deadline": "Thursday"
+        },
+        {
+          "task": "Test the payment module and report issues",
+          "responsible_person": "Charlie",
+          "deadline": "Not specified"
+        }
+      ]
+    }
+  }
+}

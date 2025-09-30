@@ -1,0 +1,12 @@
+Result 1:
+I finished the API integration yesterday. Great.  Let's discuss next tasks.  I'm still working on the front end UI.
+Similarity Score: 0.000
+
+Result 2:
+"Hey team, let's start the daily stand-up.  Sure, Rachel. I finished the API integration yesterday. Great.  Let's discuss next tasks.  I'm still working on the front end UI.  Should be done today.
+Similarity Score: 0.347
+
+Result 3:
+ API integration for the user module is completed, but we need to finalize the payment module by Thursday. We need to plan the next sprint backlog. Let's schedule a sprint planning session tomorrow at 10 a.m.  Speaker 1. Agreed.
+Similarity Score: 1.117
+
