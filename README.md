@@ -81,9 +81,6 @@
 4.Search past summaries using semantic search for quick reference.
 
 
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
 
 ## Room for Improvement
 - Add fine-tuned summarization models for more accurate notes.
