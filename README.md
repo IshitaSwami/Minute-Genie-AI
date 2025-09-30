@@ -1,6 +1,6 @@
 # Project Name
 > A local personal assistant that transcribes meetings, generates summaries, and enables semantic search.
-> Live demo [_here_](https://www.example.com). 
+> Live demo [_here_](https://drive.google.com/file/d/1OOppr-gGR1kjob3SUAnfMZ9tCpXIo7TM/view?usp=sharing). 
 
 ## Table of Contents
 * [General Info](#general-information)
