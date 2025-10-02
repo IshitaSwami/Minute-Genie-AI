@@ -51,7 +51,7 @@
 
 
 ## Setup
-1. ## Clone & Install-
+ ##  1. Clone & Install-
 
     git clone <repo_url>
     
@@ -66,11 +66,11 @@
    
     pip install -r requirements.txt
 
-2. ## Run the app-
+ ## 2. Run the app-
 
     streamlit run app.py
 
-3. ## Docker Deployment-
+##  3. Docker Deployment-
 
     docker build -t meeting-assistant .
     docker run -p 8501:8501 meeting-assistant
