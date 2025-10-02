@@ -6,10 +6,10 @@ from backend.faiss_utils import store_in_faiss, semantic_search
 
 # --- Streamlit App ---
 st.set_page_config(page_title="MinuteGenie", page_icon="📝", layout="wide")
-st.title("📝 MinuteGenie - Semantic Search & Summary Storage")
+st.title("📝 MinuteGenie - Meeting Notes AI")
 
 # ---------------------------
-# 1️⃣ Audio Upload and Processing
+# Audio Upload and Processing
 # ---------------------------
 st.header("Upload Meeting Audio")
 uploaded_file = st.file_uploader("Upload audio file (wav/mp3)", type=["wav", "mp3"])
@@ -82,3 +82,4 @@ if query.strip():
         )
     else:
         st.info("No matching summaries found in the index.")
+
