@@ -54,7 +54,9 @@
 1. Clone & Install-
 
     git clone <repo_url>
+    
     cd <repo_name>
+    
     python -m venv venv
     # Activate virtual environment
     source venv/bin/activate   # Linux/macOS
