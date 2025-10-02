@@ -60,14 +60,16 @@
     python -m venv venv
     # Activate virtual environment
     source venv/bin/activate   # Linux/macOS
+   
     venv\Scripts\activate      # Windows
+   
     pip install -r requirements.txt
 
-2. Run the app-
+3. Run the app-
 
     streamlit run app.py
 
-3. Docker Deployment-
+4. Docker Deployment-
 
     docker build -t meeting-assistant .
     docker run -p 8501:8501 meeting-assistant
