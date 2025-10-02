@@ -4,3 +4,7 @@ stored_texts.pkl
 
 # Ignore temp audio
 *.wav
+
+__pycache__/
+*.pyc
+*.pyo
